@@ -4,7 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Back ejercicios = new Back();
+
+            ejercicios.Ejercicio1();
+
+            ejercicios.Ejercicio3();
         }
     }
-}AUb4
+}
